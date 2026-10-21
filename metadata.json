@@ -1,0 +1,6 @@
+{
+  "name": "ProsperCalc - Monthly Earning Calculator & Career Financial Suite",
+  "description": "Comprehensive monthly earning calculator, visual cash-flow charts, financial positivity score, earn-while-learn roadmaps, high-earning industry benchmarks, and user & admin portfolio tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
